@@ -98,15 +98,17 @@ export const SKILLS = {
     "react",
     "redux",
     "nextjs",
+    "bootstrap",
     "tailwindcss",
     "styledcomponents",
     "antdesign",
     "chakra-ui",
-    "nextjs",
+    "jquery",
     "laravel",
+    "express",
   ],
-  databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  databases: ["mysql", "mongodb", "postgresql"],
+  other: ["git", "sanity-io", "docker", "azure"],
 };
 
 export const PROJECTS = [
