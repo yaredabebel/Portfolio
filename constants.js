@@ -82,7 +82,7 @@ export const SKILLS = {
     "sass",
     "cpp",
     "java",
-    "python",
+    // "python",
     "nodejs",
     "webpack",
     "vite",
