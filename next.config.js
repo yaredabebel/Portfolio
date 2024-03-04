@@ -8,6 +8,7 @@ const nextConfig = {
     register: true,
     skipWaiting: true,
     disable: !isProd,
+    webpack5: false,
   },
 };
 
